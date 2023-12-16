@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShindeAryan
 - 👀 I’m interested in Design & Devlopment
 - 🌱 I’m currently learning Multiple high level new gen languages & systems
-- 💞️ I’m looking to collaborate on OS development
+- 💞️ I’m looking to collaborate on AI/ML and cybersecurity projects
 - 📫 How to reach me shindearyan12nov@gmail.com
 
 <!---
